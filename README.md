@@ -1,5 +1,5 @@
 # Weaving Pattern Simulation
-This project is used to simulate the weaving patterns described in [this paper](http://github.com).
+This project is used to simulate the weaving patterns described in [this paper](https://scholar.rose-hulman.edu/math_mstr/172/).
 
 ## Installation
 To run this program, simply clone or download it and then import it as a Java project to Eclipse or Intellij Idea.
