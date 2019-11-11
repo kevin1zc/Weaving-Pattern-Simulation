@@ -19,7 +19,7 @@ The character representation of each cell is shown in the table below. There sho
 | "1" | "0" | "/" | "\\" | " " |
 
 #### Crossing Rule
-The crossing rule is shown in the table below. You can either enter the decimal value or the **9-bit** binary value. A detailed explanation of what each bit represents can be found in the [paper](http://github.com).
+The crossing rule is shown in the table below. You can either enter the decimal value or the **9-bit** binary value. A detailed explanation of what each bit represents can be found in the [paper](https://scholar.rose-hulman.edu/math_mstr/172/).
 
 | Bit | 8th | 7th | 6th | 5th | 4th | 3rd | 2nd | 1st | 0th |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
